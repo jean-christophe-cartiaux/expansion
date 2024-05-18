@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="877b5502-3550-4dd2-ab0f-86571679b85f" name="Changes" comment="nav bar fini + descriptif">
+    <list default="true" id="877b5502-3550-4dd2-ab0f-86571679b85f" name="Changes" comment="reglage de probleme icon en cour">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expension/src/component/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expension/src/component/header/header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/header/header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/expension/src/component/hero/hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/hero/hero.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expension/src/component/hero/hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/hero/hero.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expension/src/component/hero/heroDescription/description.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/hero/heroDescription/description.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/expension/src/component/hero/heroImg/img.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/hero/heroImg/img.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/expension/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/index.css" afterDir="false" />
     </list>
@@ -67,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716025847908</updated>
       <workItem from="1716025850002" duration="2782000" />
-      <workItem from="1716028670515" duration="20372000" />
+      <workItem from="1716028670515" duration="21785000" />
     </task>
     <task id="LOCAL-00001" summary="début du test">
       <option name="closed" value="true" />
@@ -85,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716042952064</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reglage de probleme icon en cour">
+      <option name="closed" value="true" />
+      <created>1716049217015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716049217015</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="début du test" />
     <MESSAGE value="nav bar fini + descriptif" />
-    <option name="LAST_COMMIT_MESSAGE" value="nav bar fini + descriptif" />
+    <MESSAGE value="reglage de probleme icon en cour" />
+    <option name="LAST_COMMIT_MESSAGE" value="reglage de probleme icon en cour" />
   </component>
 </project>

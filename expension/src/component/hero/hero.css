@@ -15,7 +15,7 @@
     flex-direction: column;
     align-items: start;
     justify-content: center;
-    padding-right: 250px; /* à changer */
+    padding-right: 253px;
 
     h2{
         font-size: 18px;font-family: "Poppins SemiBold", sans-serif;
@@ -61,3 +61,5 @@
         right: 7%;
     }
 }
+
+

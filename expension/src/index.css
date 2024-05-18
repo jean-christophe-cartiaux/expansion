@@ -17,7 +17,7 @@ body{
     font-family: "Poppins SemiBold", sans-serif;
     min-width: 100vw;
     min-height: 100vh;
-    background: url("img/icons.png") 91% 61% no-repeat fixed, url("img/X.png") 94% center no-repeat fixed;
+    background: url("img/icons.png") 91% 61% no-repeat fixed, url("img/Rocket.png")76% center no-repeat fixed,url("img/X.png") 95% center no-repeat fixed ;
     /*background-repeat: no-repeat;*/
     /*background-position: 90% 0;*/
     font-size: 14px;
@@ -43,4 +43,7 @@ main{
 section {
     width: 80%;
     height: 100%;
+}
+.orange:hover{
+    background-color: green;
 }
