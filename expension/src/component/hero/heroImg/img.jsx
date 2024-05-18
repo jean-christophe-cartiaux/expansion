@@ -1,10 +1,10 @@
-// import Text from "../../../img/X.png";
+// import icon from "../../../img/icons.png";
 
 const Img = () => {
     return (
         <>
             <div className="hero-img">
-                {/*<img src={Text} />*/}
+                {/*<img className="jeton" src={icon}/>*/}
             </div>
         </>
     )

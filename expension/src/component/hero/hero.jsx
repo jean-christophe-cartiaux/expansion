@@ -1,5 +1,6 @@
 import Description from "./heroDescription/description.jsx"
 import Img from "./heroImg/img.jsx"
+
 import "./hero.css"
 
 
