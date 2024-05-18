@@ -70,12 +70,21 @@ section {
 .hero-img3 {
     left: 58%;
     width: 11%;
+    transform: rotate(-360deg);
+    transition: 750ms ease-out;
+
+}
+.hero-img3:hover{
+    transform: rotate(0deg);
+    transition: 750ms ease-out;
+
 }
 
 .hero-img2 {
 
     width: 130%;
     left: -5%;
+
 
 }
 .hero-img1{
