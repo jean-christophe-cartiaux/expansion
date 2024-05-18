@@ -17,9 +17,12 @@ body{
     font-family: "Poppins SemiBold", sans-serif;
     min-width: 100vw;
     min-height: 100vh;
-    background: url("img/icons.png") 91% 61% no-repeat fixed, url("img/Rocket.png")76% center no-repeat fixed,url("img/X.png") 95% center no-repeat fixed ;
+    /*background: url("img/icons.png") 91% 61% no-repeat fixed, url("img/Rocket.png")76% center no-repeat fixed,url("img/X.png") 95% center no-repeat fixed ;*/
     /*background-repeat: no-repeat;*/
     /*background-position: 90% 0;*/
+    height: auto;
+
+    max-width: 100%;
     font-size: 14px;
     font-style: normal;
     font-weight: 500;
@@ -46,4 +49,56 @@ section {
 }
 .orange:hover{
     background-color: green;
+}
+
+
+.hero {
+    position: relative;
+}
+
+.hero-img {
+    position: absolute;
+    top: 50%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    width: 50%; /* Ajuste la largeur du conteneur */
+    height: 50%;
+}
+
+.hero-img3 {
+    left: 58%;
+    width: 11%;
+}
+
+.hero-img2 {
+
+    width: 130%;
+    left: -5%;
+
+}
+.hero-img1{
+    width: 180%;
+    left: -42%;
+    top: -15%;
+
+
+}
+
+.hero-img img {
+    display: block;
+    max-width: 500%;
+    height: auto;
+}
+
+
+@media (max-width: 768px) {
+    .hero-img {
+        width: 500%;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-img {
+        width: 700%;
+    }
 }
