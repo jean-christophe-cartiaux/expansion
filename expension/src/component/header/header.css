@@ -7,6 +7,12 @@ nav{
     z-index: 10;
     margin-top: 16px;
     margin-bottom: 16px;
+    .around:hover{
+        transform:rotate(360deg);
+        transition: 950ms ease-out;
+
+    }
+
     ul{
         display: flex;
         flex-direction: row;
