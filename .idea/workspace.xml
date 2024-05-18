@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="877b5502-3550-4dd2-ab0f-86571679b85f" name="Changes" comment="" />
+    <list default="true" id="877b5502-3550-4dd2-ab0f-86571679b85f" name="Changes" comment="début du test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expension/src/component/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expension/src/component/header/header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/header/header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expension/src/component/hero/hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/hero/hero.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expension/src/component/hero/heroDescription/description.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/component/hero/heroDescription/description.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expension/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/expension/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -21,23 +31,26 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2gdSE6sazDiMFfjb9VfXKDnrCZH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/PatateXIV/OneDrive/Bureau/eXpension",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PatateXIV\OneDrive\Bureau\eXpension\expension\src\component" />
@@ -52,11 +65,35 @@
       <option name="presentableId" value="Default" />
       <updated>1716025847908</updated>
       <workItem from="1716025850002" duration="2782000" />
-      <workItem from="1716028670515" duration="11149000" />
+      <workItem from="1716028670515" duration="14112000" />
     </task>
+    <task id="LOCAL-00001" summary="début du test">
+      <option name="closed" value="true" />
+      <created>1716040075916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716040075916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="début du test" />
+    <option name="LAST_COMMIT_MESSAGE" value="début du test" />
   </component>
 </project>

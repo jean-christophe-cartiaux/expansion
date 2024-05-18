@@ -28,3 +28,10 @@ header{
     justify-content: center;
 
 }
+main{
+    display: flex;
+    width: 1280px;
+    padding: 100px 32px 0px 32px;
+    align-items: flex-start;
+    gap: 64px;
+}

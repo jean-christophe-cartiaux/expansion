@@ -10,7 +10,7 @@ section{
     height: 400px;
 }
 .orange{
-    background-color: orangered;
+    background-color: #e75336;
     color:white;
     border:none;
     border-radius: 30px;
@@ -26,5 +26,25 @@ section{
 a{
     text-decoration: none;
     color: black;
+}
+.hero-description{
+    margin-top: 100px;
+    margin-left: 32px;
+
+}
+p{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-family: "Poppins Light";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+}
+h2{
+    font-family: "Poppins SemiBold";
+    span{
+        color:#e75336
+    }
 }
 
