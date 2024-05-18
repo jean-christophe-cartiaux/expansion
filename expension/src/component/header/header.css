@@ -1,0 +1,43 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    z-index: 10;
+    ul{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        list-style: none;
+        li{
+            margin-right: 24px;
+            a{
+                padding: 8px 0;
+                transition: border 10ms ease-out;
+            }
+            a:hover{
+                border-bottom: 1px solid orangered;
+
+            }
+
+        }
+        li:last-child{
+            margin-right: 0px;
+        }
+    }
+
+}
+.main-menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    div{
+        margin-right: 40px;
+    }
+}
+.active{
+    border-bottom: 1px solid orangered;
+
+
+}

@@ -1,0 +1,30 @@
+section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.hero-description,.hero-img{
+    width: 350px;
+    height: 400px;
+}
+.orange{
+    background-color: orangered;
+    color:white;
+    border:none;
+    border-radius: 30px;
+    height: 15px;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    span{
+        margin-right: 10px;
+    }
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
